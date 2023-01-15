@@ -1,6 +1,6 @@
 ---
-Specialization: "[[2. Courses/Marketing Mix Implementation Specialization/communication/Digital Marketing Specialization/Digital Marketing Specialization.md|Digital Marketing Specialization]]"
-Tags: Source/Course , Coursera ,
+Specialization: "Digital Marketing Specialization"
+Tags: course
 Authors: Aric Rindfleisch
 URL: "https://www.coursera.org/learn/marketing-digital/home/welcome"
 Difficulty: Beginner
