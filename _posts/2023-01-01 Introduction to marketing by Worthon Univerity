@@ -1,12 +1,12 @@
 ---
 title: Introduction to Marketing by WOrthon University
-Specialization: "[[Business Foundations Specialization]]"
+specialization: "[[Business Foundations Specialization]]"
 tags: course
-Authors: Barbara E. Kahn , Peter Fader , Jagmohan Raju
-Difficulty: Intermediate
-Commitment: 10 
-Usefulness: 4.5
-Skills:
+date: 2023.01.01
+difficulty: Intermediate
+commitment: 10 
+usefulness: 4.5
+skills:
 - Positioning 
 - Marketing
 - Marketing Strategy
@@ -15,7 +15,6 @@ summary:
 - Branding - the brand notion that surrounds the 4Ps
 - marketing approach (customer centricity)
 - Go-to-market strategy
-Attachments:
 ---
 
 # 1. Marketing mindset / Business model
