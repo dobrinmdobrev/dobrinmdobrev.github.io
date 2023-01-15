@@ -1,7 +1,7 @@
 ---
 title: Marketing in a Digital World
 date: 2023-01-01
-categories: [homelab,courses]
+categories: [homelab,course]
 tags: [course,Digital_Marketing]
 ---
 
