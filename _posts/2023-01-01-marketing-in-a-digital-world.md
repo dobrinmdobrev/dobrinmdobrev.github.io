@@ -1,8 +1,9 @@
 ---
-title: Makreitng in an Analog World
-date: 2023-01-01
+title: Makreitng in an Digital World
+date: 2023-01-24
 categories: [homelab,course,marketing]
 tags: [course,digital_marketing,marketing]
 ---
 
-ti si bomba.
+
+👋

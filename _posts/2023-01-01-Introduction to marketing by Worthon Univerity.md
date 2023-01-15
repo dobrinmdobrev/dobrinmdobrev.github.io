@@ -1,7 +1,7 @@
 ---
 title: Introduction to Marketing by Worthon University
 tags: course
-date: 2023.01.01
+date: 2023.01.27
 ---
 
 ```yaml
