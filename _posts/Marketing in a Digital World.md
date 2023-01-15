@@ -1,5 +1,8 @@
 ---
-tags: course
+title: Marketing in a Digital World
+date: 2023-01-01
+categories: [homelab,courses]
+tags: [course,Digital_Marketing]
 ---
 
 Authors: Aric Rindfleisch
