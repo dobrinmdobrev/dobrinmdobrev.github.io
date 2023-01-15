@@ -4,7 +4,7 @@ tags: course
 date: 2023.01.27
 ---
 
-```yaml
+
 specialization: "[[Business Foundations Specialization]]"
 difficulty: Intermediate
 commitment: 10 
@@ -18,4 +18,4 @@ summary:
 - Branding - the brand notion that surrounds the 4Ps
 - marketing approach (customer centricity)
 - Go-to-market strategy
-```
+
