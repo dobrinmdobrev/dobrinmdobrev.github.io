@@ -1,8 +1,10 @@
 ---
-Specialization: "[[Digital Marketing Specialization]]"
-Tags: Source/Course , Coursera 
-Authors: Aric Rindfleisch
-URL: https://www.coursera.org/learn/marketing-analog/home/welcome
+title: Makreitng in an Analog World
+date: 2023-01-01
+categories: [homelab,course,marketing]
+tags: [course,digital_marketing,marketing]
+---
+
 Difficulty: Beginner
 Commitment: 26 
 Usefulness: 4.5
