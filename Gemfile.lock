@@ -102,6 +102,7 @@ GEM
 
 PLATFORMS
   x86_64-linux
+  x64-mingw-ucrt
 
 DEPENDENCIES
   html-proofer (~> 3.18)
