@@ -1,10 +1,11 @@
 ---
 title: Introduction to Marketing by Worthon University
-tags: course
+categories: [homelab,course,marketing]
+tags: [course,digital_marketing]
 date: 2023.01.02
 ---
 
-
+```YAML
 specialization: "[[Business Foundations Specialization]]"
 difficulty: Intermediate
 commitment: 10 
@@ -19,3 +20,6 @@ summary:
 - marketing approach (customer centricity)
 - Go-to-market strategy
 
+```
+
+HEY
