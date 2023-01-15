@@ -1,8 +1,11 @@
 ---
 title: Introduction to Marketing by Worthon University
-specialization: "[[Business Foundations Specialization]]"
 tags: course
 date: 2023.01.01
+---
+
+```yaml
+specialization: "[[Business Foundations Specialization]]"
 difficulty: Intermediate
 commitment: 10 
 usefulness: 4.5
@@ -15,4 +18,4 @@ summary:
 - Branding - the brand notion that surrounds the 4Ps
 - marketing approach (customer centricity)
 - Go-to-market strategy
----
+```
