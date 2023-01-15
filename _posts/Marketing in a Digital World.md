@@ -1,6 +1,7 @@
 ---
-Specialization: "Digital Marketing Specialization"
-Tags: course
+tags: course
+---
+
 Authors: Aric Rindfleisch
 URL: "https://www.coursera.org/learn/marketing-digital/home/welcome"
 Difficulty: Beginner
@@ -18,8 +19,6 @@ Summary:
  - Both firms and customers need to adapt new practices and change what they have done in the past
 Attachments: "https://drive.google.com/drive/folders/1oO8CobLA0MUn2z_bD9UZ4CxJj-U9hwx_?usp=sharing"
 Usefulness: 5
----
-
 
 #### 0.1.1.1. Course overview
 
