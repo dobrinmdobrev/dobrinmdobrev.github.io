@@ -1,5 +1,5 @@
 ---
-title: Introduction to Marketing by WOrthon University
+title: Introduction to Marketing by Worthon University
 specialization: "[[Business Foundations Specialization]]"
 tags: course
 date: 2023.01.01
